@@ -14,6 +14,12 @@ You can use this template to build your Neural Network projects with [Rust](http
 
 ### Project ☁️
 
+Training the neural network:
+
+<p align="center">
+  <img src="doc/running.gif" alt="running"/>
+</p>
+
 Download the project from Git:
 
 ```shell
