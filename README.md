@@ -36,7 +36,7 @@ The tests were done using a Linux 🐧 machine.
 ### Torch 💻
 
 The torch version used was version **v2.0.0**. You can download it directly from the website [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/), 
-or follow the procedures below via the command line. Package used: (libtorch-cxx11-abi-shared-with-deps-2.0.0+cu118.zip).
+or follow the procedures below via the command line. Package used: (*libtorch-cxx11-abi-shared-with-deps-2.0.0+cu118.zip*).
 
 In the root folder of the project, create a **libs** directory in the root of the project:
 
