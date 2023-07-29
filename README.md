@@ -24,9 +24,8 @@ $ git clone https://github.com/NeuroQuestAi/rust-nn.git && cd rust-nn
 
 The tests were done using a Linux 🐧 machine.
 
-- Need to have installed **build-essential** with GCC and other libs;
-- You need to download the C++ version Torch library to your workstation;
-- You need to have Rust installed.
+- Need to have installed [build-essential](https://packages.debian.org/pt-br/sid/build-essential);
+- You need to have [Rust](https://www.rust-lang.org/) installed.
 
 ### Torch 💻
 
