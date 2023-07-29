@@ -1,0 +1,9 @@
+[package]
+name = "neural"
+version = "0.21.0"
+edition = "2018"
+
+[dependencies]
+tch = "0.13.0"
+anyhow = "1"
+
