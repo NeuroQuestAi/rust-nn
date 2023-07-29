@@ -95,3 +95,7 @@ And run:
 ```shell
 $ cargo run
 ```
+
+### Authors 👨‍💻
+
+  * [Ederson Corbari](mailto:e@NeuralQuest.ai) 👽
