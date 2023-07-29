@@ -7,10 +7,10 @@ https://neuroquest.ai)
 ![rustc](https://img.shields.io/static/v1.svg?label=rustc&message=1.70%20&color=orange)
 
 This code template is a simple neural network implementation using the [tch](https://github.com/LaurentMazare/tch-rs) ([Torch](https://pytorch.org/)) 
-library to perform digit classification on the MNIST dataset. The [MNIST](http://yann.lecun.com/exdb/mnist/) dataset consists of 28x28 grayscale images 
-of handwritten digits (0 to 9). The goal is to train a neural network to correctly classify these digits.
+library to perform digit classification on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The [MNIST](http://yann.lecun.com/exdb/mnist/) dataset 
+consists of 28x28 grayscale images of handwritten digits (0 to 9). The goal is to train a neural network to correctly classify these digits.
 
-You can use this template to build your Neural Network projects with Rust ➕ Torch.
+You can use this template to build your Neural Network projects with [Rust](https://www.rust-lang.org/) ➕ [Torch](https://pytorch.org/).
 
 ### Project ☁️
 
